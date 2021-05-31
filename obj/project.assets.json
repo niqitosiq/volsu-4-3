@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/niqitosiq/volsu/lab3/Lab3/Lab3.csproj",
+      "projectUniqueName": "/home/niqitosiq/volsu/lab3/Lab3.csproj",
       "projectName": "Lab3",
-      "projectPath": "/home/niqitosiq/volsu/lab3/Lab3/Lab3.csproj",
+      "projectPath": "/home/niqitosiq/volsu/lab3/Lab3.csproj",
       "packagesPath": "/home/niqitosiq/.nuget/packages/",
-      "outputPath": "/home/niqitosiq/volsu/lab3/Lab3/obj/",
+      "outputPath": "/home/niqitosiq/volsu/lab3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/niqitosiq/.nuget/NuGet/NuGet.Config"
